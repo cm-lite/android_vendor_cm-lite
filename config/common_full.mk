@@ -9,13 +9,7 @@ PRODUCT_PACKAGES += \
     Galaxy4 \
     HoloSpiralWallpaper \
     LiveWallpapers \
-    LiveWallpapersPicker \
-    MagicSmokeWallpapers \
-    NoiseField \
-    PhaseBeam \
-    PhotoTable \
-    SoundRecorder \
-    PhotoPhase
+    LiveWallpapersPicker
 
 # Extra tools in CM
 PRODUCT_PACKAGES += \
